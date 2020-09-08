@@ -23,12 +23,13 @@ While numerous studies have explored the human CPP, yielding promising results, 
     6. MUSDB18
     7. FUSS
     8. AVSpeech
-    9.Kinect-WSJ
+    9. Kinect-WSJ
     
 For Phase 2, a starting point could potentially require synthesizing artificial datasets by compiling multiple recordings of distinct individual signalers into a single audio stream. A possible data source could be the Gero sperm whale DTAG data, since it contains clear signals that are annotated with the identity of the vocalizing whale. As we progress, it would be important to evaluate the performance of our methods on real-world data (as opposed to manipulated artificial datasets). With this in mind, possible data sources could include:
 
     1. The Yossi Yovel Egyptian bat dataset, given that the annotations include ‘Emitters’ and ‘Addressees’
     2. The Diana Reiss, Marcelo Mancuso, and Andres Babino bow-riding data, since multi-modal learning could confer numerous advantages
+    3. The Michelle Fournet and Fred Sharpe humpback whale data
     
 ## Problems 
 
@@ -41,6 +42,14 @@ Prior to tackling this projects, it is reasonable and appropriate to forecast a 
 ## Next Steps
 
 The logical next step as we begin to address the non-human CPP is to become familiar with the existing techniques and approaches used to solve human speech and music acoustic source separation. A particularly relevant starting point might be the Asteroid PyTorch-based audio source separation toolkit. Several of the other key papers are listed on the Earth Species GitHub.
+
+### 6-Week Agenda
+
+Over the next six weeks, I propose that we focus our attention on understanding and implementing a number of existing techniques designed for human speech and music source separation. This will enable us both to develop a deeper understanding of ML-based audio source separation approaches as well as to gauge the performance of existing technologies. During this time, we can also aim to construct a number of bioacoustic source separation datasets using a variety of species and call types.
+
+## More Information
+
+More information for this project can be found at the project [homepage](https://github.com/orgs/earthspecies/projects/5)
 
    
     
