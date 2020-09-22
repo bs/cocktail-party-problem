@@ -1,6 +1,10 @@
-.ipynb_checkpoints
+Human-Speech-and-Music/Asteroid-Experimentation/MiniLibriMix
 */.ipynb_checkpoints/*
 Human-Speech-and-Music/Asteroid-Experimentation/Recipes/asteroid
 Human-Speech-and-Music/sound-separation/datasets/fuss/data
 Human-Speech-and-Music/Asteroid-Experimentation/Notebooks/MiniLibriMix
 Human-Speech-and-Music/Asteroid-Experimentation/Notebooks/lightning_logs
+*/lightning_logs/*
+Human-Speech-and-Music/Asteroid-Experimentation/lightning_logs/
+.ipynb_checkpoints
+Human-Speech-and-Music/Miscellaneous/sound-separation
